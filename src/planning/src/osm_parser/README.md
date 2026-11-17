@@ -11,9 +11,15 @@ A Python tool for loading OpenStreetMap (OSM) files and extracting map informati
 
 ## Setup
 
-Requires Python 3.12 and [uv](https://docs.astral.sh/uv/).
+Requires Python 3.12 or later. The parser uses Python's standard library, so no additional packages are required.
 
 The current demo loads `Town01.osm` by default.
+
+To run the parser, navigate to this directory and execute:
+
+```bash
+python3 osm_parser.py
+```
 
 ## Usage
 
