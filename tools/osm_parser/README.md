@@ -11,7 +11,7 @@ A Python tool for loading OpenStreetMap (OSM) files and extracting map informati
 
 ## Setup
 
-Requires Python 3.12 or later. The parser uses Python's standard library, so no additional packages are required.
+Requires Python 3.12 or later.
 
 An OpenStreetMap (OSM) file must be provided when running the parser.
 
