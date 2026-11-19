@@ -1,6 +1,6 @@
 # OSM Parser
 
-A Python tool for loading OpenStreetMap (OSM) files and extracting map information for WEAP's Planning & Control team.
+A Python tool for loading OpenStreetMap (OSM) files and extracting map information.
 
 ## Features
 
